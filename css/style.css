@@ -311,5 +311,29 @@ ul.info-list li:hover a {
     .secondary {
         width: 100%;
         padding: 20px;
+          border-radius:10px;
+    }
+}
+
+@media screen and (max-width: 567px) {
+    .business_info .secondary {
+        padding: 0;
+    }
+
+    .business_info h1 {
+        font-size: 22px;
+        margin-top: 0;
+    }
+
+    .footer {
+        padding: 0;
+    }
+
+    ul.info-list {
+        gap: 8px;
+    }
+
+    ul.info-list li {
+        padding: 8px;
     }
 }
