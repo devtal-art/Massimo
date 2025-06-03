@@ -311,6 +311,7 @@ ul.info-list li:hover a {
     .secondary {
         width: 100%;
         padding: 20px;
+        border-radius: 10px;
     }
 }
 
