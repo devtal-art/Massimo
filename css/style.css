@@ -80,7 +80,7 @@ body {
       3. HEADER (LOGO + TITLE + SUBTITLE)
     ---------------------------------------*/
 .header {
-    margin-top: 2vh;
+    /* margin-top: 2vh; */
     text-align: center;
     flex: 0 0 auto;
 }
@@ -229,7 +229,7 @@ ul.info-list li:hover a {
     flex: 0 0 auto;
     width: 100%;
     max-width: 480px;
-    padding: 16px 0;
+    padding: 16px 0 0;
     display: flex;
     flex-direction: column;
     align-items: center;
