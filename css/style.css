@@ -180,6 +180,7 @@ ul.info-list li span {
     font-size: 1rem;
     flex: 1;
     transition: 0.4s ease-in-out;
+    word-break: auto-phrase;
 }
 
 ul.info-list li:hover a {
