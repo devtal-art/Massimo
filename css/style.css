@@ -174,7 +174,6 @@ ul.info-list li svg {
 ul.info-list li a,
 ul.info-list li span {
     color: #000;
-    /* Primary blue for links/text */
     text-decoration: none;
     word-break: break-all;
     font-size: 1rem;
